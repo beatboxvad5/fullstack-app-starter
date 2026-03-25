@@ -1,2 +1,11 @@
-# fullstack-app-starter
-Full-stack starter with frontend, API, auth, and DB structure.
+# Fullstack App Starter
+
+Starter structure for building full-stack applications.
+
+## Includes
+- Frontend app shell
+- API-ready backend structure
+- Auth and DB setup notes
+
+## Status
+Initial public version.
